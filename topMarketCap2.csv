@@ -62,9 +62,9 @@ Salesforce,CRM,https://companiesmarketcap.com/img/company-logos/64/CRM.webp
 Verizon,VZ,https://companiesmarketcap.com/img/company-logos/64/VZ.webp
 BHP Group,BHP,https://companiesmarketcap.com/img/company-logos/64/BHP.webp
 Morgan Stanley,MS,https://companiesmarketcap.com/img/company-logos/64/MS.webp
-CATL,300750.SZ,https://companiesmarketcap.com/img/company-logos/64/300750.SZ.webp
 Prosus,PRX.AS,https://companiesmarketcap.com/img/company-logos/64/PRX.AS.webp
 Comcast,CMCSA,https://companiesmarketcap.com/img/company-logos/64/CMCSA.webp
+CATL,300750.SZ,https://companiesmarketcap.com/img/company-logos/64/300750.SZ.webp
 Linde,LIN,https://companiesmarketcap.com/img/company-logos/64/LIN.webp
 United Parcel Service,UPS,https://companiesmarketcap.com/img/company-logos/64/UPS.webp
 China Construction Bank,601939.SS,https://companiesmarketcap.com/img/company-logos/64/601939.SS.webp
@@ -96,6 +96,306 @@ Bank of China,601988.SS,https://companiesmarketcap.com/img/company-logos/64/6019
 Unilever,UL,https://companiesmarketcap.com/img/company-logos/64/UL.webp
 Amgen,AMGN,https://companiesmarketcap.com/img/company-logos/64/AMGN.webp
 Lowe's Companies,LOW,https://companiesmarketcap.com/img/company-logos/64/LOW.webp
+AIA,1299.HK,https://companiesmarketcap.com/img/company-logos/64/1299.HK.webp
 Caterpillar,CAT,https://companiesmarketcap.com/img/company-logos/64/CAT.webp
 Boeing,BA,https://companiesmarketcap.com/img/company-logos/64/BA.webp
+Apple,AAPL,https://companiesmarketcap.com/img/company-logos/64/AAPL.webp
+Microsoft,MSFT,https://companiesmarketcap.com/img/company-logos/64/MSFT.webp
+Saudi Aramco,2222.SR,https://companiesmarketcap.com/img/company-logos/64/2222.SR.webp
+Alphabet (Google),GOOG,https://companiesmarketcap.com/img/company-logos/64/GOOG.webp
+Amazon,AMZN,https://companiesmarketcap.com/img/company-logos/64/AMZN.webp
+Berkshire Hathaway,BRK-B,https://companiesmarketcap.com/img/company-logos/64/BRK-B.webp
+Tesla,TSLA,https://companiesmarketcap.com/img/company-logos/64/TSLA.webp
+NVIDIA,NVDA,https://companiesmarketcap.com/img/company-logos/64/NVDA.webp
+TSMC,TSM,https://companiesmarketcap.com/img/company-logos/64/TSM.webp
+Visa,V,https://companiesmarketcap.com/img/company-logos/64/V.webp
+Exxon Mobil,XOM,https://companiesmarketcap.com/img/company-logos/64/XOM.webp
+Tencent,TCEHY,https://companiesmarketcap.com/img/company-logos/64/TCEHY.webp
+Meta Platforms (Facebook),META,https://companiesmarketcap.com/img/company-logos/64/META.webp
+UnitedHealth,UNH,https://companiesmarketcap.com/img/company-logos/64/UNH.webp
+LVMH,MC.PA,https://companiesmarketcap.com/img/company-logos/64/MC.PA.webp
+Johnson & Johnson,JNJ,https://companiesmarketcap.com/img/company-logos/64/JNJ.webp
+JPMorgan Chase,JPM,https://companiesmarketcap.com/img/company-logos/64/JPM.webp
+Walmart,WMT,https://companiesmarketcap.com/img/company-logos/64/WMT.webp
+Mastercard,MA,https://companiesmarketcap.com/img/company-logos/64/MA.webp
+Samsung,005930.KS,https://companiesmarketcap.com/img/company-logos/64/005930.KS.webp
+Kweichow Moutai,600519.SS,https://companiesmarketcap.com/img/company-logos/64/600519.SS.webp
+Eli Lilly,LLY,https://companiesmarketcap.com/img/company-logos/64/LLY.webp
+Chevron,CVX,https://companiesmarketcap.com/img/company-logos/64/CVX.webp
+Procter & Gamble,PG,https://companiesmarketcap.com/img/company-logos/64/PG.webp
+Home Depot,HD,https://companiesmarketcap.com/img/company-logos/64/HD.webp
+Nestlé,NESN.SW,https://companiesmarketcap.com/img/company-logos/64/NESN.SW.webp
+Novo Nordisk,NVO,https://companiesmarketcap.com/img/company-logos/64/NVO.webp
+Bank of America,BAC,https://companiesmarketcap.com/img/company-logos/64/BAC.webp
+Alibaba,BABA,https://companiesmarketcap.com/img/company-logos/64/BABA.webp
+Merck,MRK,https://companiesmarketcap.com/img/company-logos/64/MRK.webp
+ASML,ASML,https://companiesmarketcap.com/img/company-logos/64/ASML.webp
+AbbVie,ABBV,https://companiesmarketcap.com/img/company-logos/64/ABBV.webp
+Coca-Cola,KO,https://companiesmarketcap.com/img/company-logos/64/KO.webp
+Broadcom,AVGO,https://companiesmarketcap.com/img/company-logos/64/AVGO.webp
+Pfizer,PFE,https://companiesmarketcap.com/img/company-logos/64/PFE.webp
+Pepsico,PEP,https://companiesmarketcap.com/img/company-logos/64/PEP.webp
+Roche,ROG.SW,https://companiesmarketcap.com/img/company-logos/64/ROG.SW.webp
+Oracle,ORCL,https://companiesmarketcap.com/img/company-logos/64/ORCL.webp
+International Holding Company,IHC.AE,https://companiesmarketcap.com/img/company-logos/64/IHC.AE.webp
+L'Oréal,OR.PA,https://companiesmarketcap.com/img/company-logos/64/OR.PA.webp
+Thermo Fisher Scientific,TMO,https://companiesmarketcap.com/img/company-logos/64/TMO.webp
+Costco,COST,https://companiesmarketcap.com/img/company-logos/64/COST.webp
+ICBC,1398.HK,https://companiesmarketcap.com/img/company-logos/64/1398.HK.webp
+AstraZeneca,AZN,https://companiesmarketcap.com/img/company-logos/64/AZN.webp
+Shell,SHEL,https://companiesmarketcap.com/img/company-logos/64/SHEL.webp
+Hermès,RMS.PA,https://companiesmarketcap.com/img/company-logos/64/RMS.PA.webp
+Walt Disney,DIS,https://companiesmarketcap.com/img/company-logos/64/DIS.webp
+Cisco,CSCO,https://companiesmarketcap.com/img/company-logos/64/CSCO.webp
+Toyota,TM,https://companiesmarketcap.com/img/company-logos/64/TM.webp
+McDonald,MCD,https://companiesmarketcap.com/img/company-logos/64/MCD.webp
+Nike,NKE,https://companiesmarketcap.com/img/company-logos/64/NKE.webp
+Reliance Industries,RELIANCE.NS,https://companiesmarketcap.com/img/company-logos/64/RELIANCE.NS.webp
+Danaher,DHR,https://companiesmarketcap.com/img/company-logos/64/DHR.webp
+Abbott Laboratories,ABT,https://companiesmarketcap.com/img/company-logos/64/ABT.webp
+Novartis,NVS,https://companiesmarketcap.com/img/company-logos/64/NVS.webp
+Wells Fargo,WFC,https://companiesmarketcap.com/img/company-logos/64/WFC.webp
+Accenture,ACN,https://companiesmarketcap.com/img/company-logos/64/ACN.webp
+T-Mobile US,TMUS,https://companiesmarketcap.com/img/company-logos/64/TMUS.webp
+Adobe,ADBE,https://companiesmarketcap.com/img/company-logos/64/ADBE.webp
+Salesforce,CRM,https://companiesmarketcap.com/img/company-logos/64/CRM.webp
+Verizon,VZ,https://companiesmarketcap.com/img/company-logos/64/VZ.webp
+BHP Group,BHP,https://companiesmarketcap.com/img/company-logos/64/BHP.webp
+Morgan Stanley,MS,https://companiesmarketcap.com/img/company-logos/64/MS.webp
+Prosus,PRX.AS,https://companiesmarketcap.com/img/company-logos/64/PRX.AS.webp
+Comcast,CMCSA,https://companiesmarketcap.com/img/company-logos/64/CMCSA.webp
+CATL,300750.SZ,https://companiesmarketcap.com/img/company-logos/64/300750.SZ.webp
+Linde,LIN,https://companiesmarketcap.com/img/company-logos/64/LIN.webp
+United Parcel Service,UPS,https://companiesmarketcap.com/img/company-logos/64/UPS.webp
+China Construction Bank,601939.SS,https://companiesmarketcap.com/img/company-logos/64/601939.SS.webp
+Philip Morris,PM,https://companiesmarketcap.com/img/company-logos/64/PM.webp
+Texas Instruments,TXN,https://companiesmarketcap.com/img/company-logos/64/TXN.webp
+Netflix,NFLX,https://companiesmarketcap.com/img/company-logos/64/NFLX.webp
+China Mobile,0941.HK,https://companiesmarketcap.com/img/company-logos/64/0941.HK.webp
+Dior,CDI.PA,https://companiesmarketcap.com/img/company-logos/64/CDI.PA.webp
+TotalEnergies,TTE,https://companiesmarketcap.com/img/company-logos/64/TTE.webp
+Tata Consultancy Services,TCS.NS,https://companiesmarketcap.com/img/company-logos/64/TCS.NS.webp
+Bristol-Myers Squibb,BMY,https://companiesmarketcap.com/img/company-logos/64/BMY.webp
+Nextera Energy,NEE,https://companiesmarketcap.com/img/company-logos/64/NEE.webp
+Charles Schwab,SCHW,https://companiesmarketcap.com/img/company-logos/64/SCHW.webp
+Agricultural Bank of China,601288.SS,https://companiesmarketcap.com/img/company-logos/64/601288.SS.webp
+HSBC,HSBC,https://companiesmarketcap.com/img/company-logos/64/HSBC.webp
+Raytheon Technologies,RTX,https://companiesmarketcap.com/img/company-logos/64/RTX.webp
+QUALCOMM,QCOM,https://companiesmarketcap.com/img/company-logos/64/QCOM.webp
+Royal Bank Of Canada,RY,https://companiesmarketcap.com/img/company-logos/64/RY.webp
+CM Bank,3968.HK,https://companiesmarketcap.com/img/company-logos/64/3968.HK.webp
+SAP,SAP,https://companiesmarketcap.com/img/company-logos/64/SAP.webp
+ConocoPhillips,COP,https://companiesmarketcap.com/img/company-logos/64/COP.webp
+AT&T,T,https://companiesmarketcap.com/img/company-logos/64/T.webp
+Honeywell,HON,https://companiesmarketcap.com/img/company-logos/64/HON.webp
+Ping An Insurance,601318.SS,https://companiesmarketcap.com/img/company-logos/64/601318.SS.webp
+PetroChina,601857.SS,https://companiesmarketcap.com/img/company-logos/64/601857.SS.webp
+American Express,AXP,https://companiesmarketcap.com/img/company-logos/64/AXP.webp
+AMD,AMD,https://companiesmarketcap.com/img/company-logos/64/AMD.webp
+Bank of China,601988.SS,https://companiesmarketcap.com/img/company-logos/64/601988.SS.webp
+Unilever,UL,https://companiesmarketcap.com/img/company-logos/64/UL.webp
+Amgen,AMGN,https://companiesmarketcap.com/img/company-logos/64/AMGN.webp
+Lowe's Companies,LOW,https://companiesmarketcap.com/img/company-logos/64/LOW.webp
 AIA,1299.HK,https://companiesmarketcap.com/img/company-logos/64/1299.HK.webp
+Caterpillar,CAT,https://companiesmarketcap.com/img/company-logos/64/CAT.webp
+Boeing,BA,https://companiesmarketcap.com/img/company-logos/64/BA.webp
+Apple,AAPL,https://companiesmarketcap.com/img/company-logos/64/AAPL.webp
+Microsoft,MSFT,https://companiesmarketcap.com/img/company-logos/64/MSFT.webp
+Saudi Aramco,2222.SR,https://companiesmarketcap.com/img/company-logos/64/2222.SR.webp
+Alphabet (Google),GOOG,https://companiesmarketcap.com/img/company-logos/64/GOOG.webp
+Amazon,AMZN,https://companiesmarketcap.com/img/company-logos/64/AMZN.webp
+Berkshire Hathaway,BRK-B,https://companiesmarketcap.com/img/company-logos/64/BRK-B.webp
+Tesla,TSLA,https://companiesmarketcap.com/img/company-logos/64/TSLA.webp
+NVIDIA,NVDA,https://companiesmarketcap.com/img/company-logos/64/NVDA.webp
+TSMC,TSM,https://companiesmarketcap.com/img/company-logos/64/TSM.webp
+Visa,V,https://companiesmarketcap.com/img/company-logos/64/V.webp
+Exxon Mobil,XOM,https://companiesmarketcap.com/img/company-logos/64/XOM.webp
+Tencent,TCEHY,https://companiesmarketcap.com/img/company-logos/64/TCEHY.webp
+Meta Platforms (Facebook),META,https://companiesmarketcap.com/img/company-logos/64/META.webp
+UnitedHealth,UNH,https://companiesmarketcap.com/img/company-logos/64/UNH.webp
+LVMH,MC.PA,https://companiesmarketcap.com/img/company-logos/64/MC.PA.webp
+Johnson & Johnson,JNJ,https://companiesmarketcap.com/img/company-logos/64/JNJ.webp
+JPMorgan Chase,JPM,https://companiesmarketcap.com/img/company-logos/64/JPM.webp
+Walmart,WMT,https://companiesmarketcap.com/img/company-logos/64/WMT.webp
+Mastercard,MA,https://companiesmarketcap.com/img/company-logos/64/MA.webp
+Samsung,005930.KS,https://companiesmarketcap.com/img/company-logos/64/005930.KS.webp
+Kweichow Moutai,600519.SS,https://companiesmarketcap.com/img/company-logos/64/600519.SS.webp
+Eli Lilly,LLY,https://companiesmarketcap.com/img/company-logos/64/LLY.webp
+Chevron,CVX,https://companiesmarketcap.com/img/company-logos/64/CVX.webp
+Procter & Gamble,PG,https://companiesmarketcap.com/img/company-logos/64/PG.webp
+Home Depot,HD,https://companiesmarketcap.com/img/company-logos/64/HD.webp
+Nestlé,NESN.SW,https://companiesmarketcap.com/img/company-logos/64/NESN.SW.webp
+Novo Nordisk,NVO,https://companiesmarketcap.com/img/company-logos/64/NVO.webp
+Bank of America,BAC,https://companiesmarketcap.com/img/company-logos/64/BAC.webp
+Alibaba,BABA,https://companiesmarketcap.com/img/company-logos/64/BABA.webp
+Merck,MRK,https://companiesmarketcap.com/img/company-logos/64/MRK.webp
+ASML,ASML,https://companiesmarketcap.com/img/company-logos/64/ASML.webp
+AbbVie,ABBV,https://companiesmarketcap.com/img/company-logos/64/ABBV.webp
+Coca-Cola,KO,https://companiesmarketcap.com/img/company-logos/64/KO.webp
+Broadcom,AVGO,https://companiesmarketcap.com/img/company-logos/64/AVGO.webp
+Pfizer,PFE,https://companiesmarketcap.com/img/company-logos/64/PFE.webp
+Pepsico,PEP,https://companiesmarketcap.com/img/company-logos/64/PEP.webp
+Roche,ROG.SW,https://companiesmarketcap.com/img/company-logos/64/ROG.SW.webp
+Oracle,ORCL,https://companiesmarketcap.com/img/company-logos/64/ORCL.webp
+International Holding Company,IHC.AE,https://companiesmarketcap.com/img/company-logos/64/IHC.AE.webp
+L'Oréal,OR.PA,https://companiesmarketcap.com/img/company-logos/64/OR.PA.webp
+Thermo Fisher Scientific,TMO,https://companiesmarketcap.com/img/company-logos/64/TMO.webp
+Costco,COST,https://companiesmarketcap.com/img/company-logos/64/COST.webp
+ICBC,1398.HK,https://companiesmarketcap.com/img/company-logos/64/1398.HK.webp
+AstraZeneca,AZN,https://companiesmarketcap.com/img/company-logos/64/AZN.webp
+Shell,SHEL,https://companiesmarketcap.com/img/company-logos/64/SHEL.webp
+Hermès,RMS.PA,https://companiesmarketcap.com/img/company-logos/64/RMS.PA.webp
+Walt Disney,DIS,https://companiesmarketcap.com/img/company-logos/64/DIS.webp
+Cisco,CSCO,https://companiesmarketcap.com/img/company-logos/64/CSCO.webp
+Toyota,TM,https://companiesmarketcap.com/img/company-logos/64/TM.webp
+McDonald,MCD,https://companiesmarketcap.com/img/company-logos/64/MCD.webp
+Nike,NKE,https://companiesmarketcap.com/img/company-logos/64/NKE.webp
+Reliance Industries,RELIANCE.NS,https://companiesmarketcap.com/img/company-logos/64/RELIANCE.NS.webp
+Danaher,DHR,https://companiesmarketcap.com/img/company-logos/64/DHR.webp
+Abbott Laboratories,ABT,https://companiesmarketcap.com/img/company-logos/64/ABT.webp
+Novartis,NVS,https://companiesmarketcap.com/img/company-logos/64/NVS.webp
+Wells Fargo,WFC,https://companiesmarketcap.com/img/company-logos/64/WFC.webp
+Accenture,ACN,https://companiesmarketcap.com/img/company-logos/64/ACN.webp
+T-Mobile US,TMUS,https://companiesmarketcap.com/img/company-logos/64/TMUS.webp
+Adobe,ADBE,https://companiesmarketcap.com/img/company-logos/64/ADBE.webp
+Salesforce,CRM,https://companiesmarketcap.com/img/company-logos/64/CRM.webp
+Verizon,VZ,https://companiesmarketcap.com/img/company-logos/64/VZ.webp
+BHP Group,BHP,https://companiesmarketcap.com/img/company-logos/64/BHP.webp
+Morgan Stanley,MS,https://companiesmarketcap.com/img/company-logos/64/MS.webp
+Prosus,PRX.AS,https://companiesmarketcap.com/img/company-logos/64/PRX.AS.webp
+Comcast,CMCSA,https://companiesmarketcap.com/img/company-logos/64/CMCSA.webp
+CATL,300750.SZ,https://companiesmarketcap.com/img/company-logos/64/300750.SZ.webp
+Linde,LIN,https://companiesmarketcap.com/img/company-logos/64/LIN.webp
+United Parcel Service,UPS,https://companiesmarketcap.com/img/company-logos/64/UPS.webp
+China Construction Bank,601939.SS,https://companiesmarketcap.com/img/company-logos/64/601939.SS.webp
+Philip Morris,PM,https://companiesmarketcap.com/img/company-logos/64/PM.webp
+Texas Instruments,TXN,https://companiesmarketcap.com/img/company-logos/64/TXN.webp
+Netflix,NFLX,https://companiesmarketcap.com/img/company-logos/64/NFLX.webp
+China Mobile,0941.HK,https://companiesmarketcap.com/img/company-logos/64/0941.HK.webp
+Dior,CDI.PA,https://companiesmarketcap.com/img/company-logos/64/CDI.PA.webp
+TotalEnergies,TTE,https://companiesmarketcap.com/img/company-logos/64/TTE.webp
+Tata Consultancy Services,TCS.NS,https://companiesmarketcap.com/img/company-logos/64/TCS.NS.webp
+Bristol-Myers Squibb,BMY,https://companiesmarketcap.com/img/company-logos/64/BMY.webp
+Nextera Energy,NEE,https://companiesmarketcap.com/img/company-logos/64/NEE.webp
+Charles Schwab,SCHW,https://companiesmarketcap.com/img/company-logos/64/SCHW.webp
+Agricultural Bank of China,601288.SS,https://companiesmarketcap.com/img/company-logos/64/601288.SS.webp
+HSBC,HSBC,https://companiesmarketcap.com/img/company-logos/64/HSBC.webp
+Raytheon Technologies,RTX,https://companiesmarketcap.com/img/company-logos/64/RTX.webp
+QUALCOMM,QCOM,https://companiesmarketcap.com/img/company-logos/64/QCOM.webp
+Royal Bank Of Canada,RY,https://companiesmarketcap.com/img/company-logos/64/RY.webp
+CM Bank,3968.HK,https://companiesmarketcap.com/img/company-logos/64/3968.HK.webp
+SAP,SAP,https://companiesmarketcap.com/img/company-logos/64/SAP.webp
+ConocoPhillips,COP,https://companiesmarketcap.com/img/company-logos/64/COP.webp
+AT&T,T,https://companiesmarketcap.com/img/company-logos/64/T.webp
+Honeywell,HON,https://companiesmarketcap.com/img/company-logos/64/HON.webp
+Ping An Insurance,601318.SS,https://companiesmarketcap.com/img/company-logos/64/601318.SS.webp
+PetroChina,601857.SS,https://companiesmarketcap.com/img/company-logos/64/601857.SS.webp
+American Express,AXP,https://companiesmarketcap.com/img/company-logos/64/AXP.webp
+AMD,AMD,https://companiesmarketcap.com/img/company-logos/64/AMD.webp
+Bank of China,601988.SS,https://companiesmarketcap.com/img/company-logos/64/601988.SS.webp
+Unilever,UL,https://companiesmarketcap.com/img/company-logos/64/UL.webp
+Amgen,AMGN,https://companiesmarketcap.com/img/company-logos/64/AMGN.webp
+Lowe's Companies,LOW,https://companiesmarketcap.com/img/company-logos/64/LOW.webp
+AIA,1299.HK,https://companiesmarketcap.com/img/company-logos/64/1299.HK.webp
+Caterpillar,CAT,https://companiesmarketcap.com/img/company-logos/64/CAT.webp
+Boeing,BA,https://companiesmarketcap.com/img/company-logos/64/BA.webp
+Apple,AAPL,https://companiesmarketcap.com/img/company-logos/64/AAPL.webp
+Microsoft,MSFT,https://companiesmarketcap.com/img/company-logos/64/MSFT.webp
+Saudi Aramco,2222.SR,https://companiesmarketcap.com/img/company-logos/64/2222.SR.webp
+Alphabet (Google),GOOG,https://companiesmarketcap.com/img/company-logos/64/GOOG.webp
+Amazon,AMZN,https://companiesmarketcap.com/img/company-logos/64/AMZN.webp
+Berkshire Hathaway,BRK-B,https://companiesmarketcap.com/img/company-logos/64/BRK-B.webp
+Tesla,TSLA,https://companiesmarketcap.com/img/company-logos/64/TSLA.webp
+NVIDIA,NVDA,https://companiesmarketcap.com/img/company-logos/64/NVDA.webp
+TSMC,TSM,https://companiesmarketcap.com/img/company-logos/64/TSM.webp
+Visa,V,https://companiesmarketcap.com/img/company-logos/64/V.webp
+Exxon Mobil,XOM,https://companiesmarketcap.com/img/company-logos/64/XOM.webp
+Tencent,TCEHY,https://companiesmarketcap.com/img/company-logos/64/TCEHY.webp
+Meta Platforms (Facebook),META,https://companiesmarketcap.com/img/company-logos/64/META.webp
+UnitedHealth,UNH,https://companiesmarketcap.com/img/company-logos/64/UNH.webp
+LVMH,MC.PA,https://companiesmarketcap.com/img/company-logos/64/MC.PA.webp
+Johnson & Johnson,JNJ,https://companiesmarketcap.com/img/company-logos/64/JNJ.webp
+JPMorgan Chase,JPM,https://companiesmarketcap.com/img/company-logos/64/JPM.webp
+Walmart,WMT,https://companiesmarketcap.com/img/company-logos/64/WMT.webp
+Mastercard,MA,https://companiesmarketcap.com/img/company-logos/64/MA.webp
+Samsung,005930.KS,https://companiesmarketcap.com/img/company-logos/64/005930.KS.webp
+Kweichow Moutai,600519.SS,https://companiesmarketcap.com/img/company-logos/64/600519.SS.webp
+Eli Lilly,LLY,https://companiesmarketcap.com/img/company-logos/64/LLY.webp
+Chevron,CVX,https://companiesmarketcap.com/img/company-logos/64/CVX.webp
+Procter & Gamble,PG,https://companiesmarketcap.com/img/company-logos/64/PG.webp
+Home Depot,HD,https://companiesmarketcap.com/img/company-logos/64/HD.webp
+Nestlé,NESN.SW,https://companiesmarketcap.com/img/company-logos/64/NESN.SW.webp
+Novo Nordisk,NVO,https://companiesmarketcap.com/img/company-logos/64/NVO.webp
+Bank of America,BAC,https://companiesmarketcap.com/img/company-logos/64/BAC.webp
+Alibaba,BABA,https://companiesmarketcap.com/img/company-logos/64/BABA.webp
+Merck,MRK,https://companiesmarketcap.com/img/company-logos/64/MRK.webp
+ASML,ASML,https://companiesmarketcap.com/img/company-logos/64/ASML.webp
+AbbVie,ABBV,https://companiesmarketcap.com/img/company-logos/64/ABBV.webp
+Coca-Cola,KO,https://companiesmarketcap.com/img/company-logos/64/KO.webp
+Broadcom,AVGO,https://companiesmarketcap.com/img/company-logos/64/AVGO.webp
+Pfizer,PFE,https://companiesmarketcap.com/img/company-logos/64/PFE.webp
+Pepsico,PEP,https://companiesmarketcap.com/img/company-logos/64/PEP.webp
+Roche,ROG.SW,https://companiesmarketcap.com/img/company-logos/64/ROG.SW.webp
+Oracle,ORCL,https://companiesmarketcap.com/img/company-logos/64/ORCL.webp
+International Holding Company,IHC.AE,https://companiesmarketcap.com/img/company-logos/64/IHC.AE.webp
+L'Oréal,OR.PA,https://companiesmarketcap.com/img/company-logos/64/OR.PA.webp
+Thermo Fisher Scientific,TMO,https://companiesmarketcap.com/img/company-logos/64/TMO.webp
+Costco,COST,https://companiesmarketcap.com/img/company-logos/64/COST.webp
+ICBC,1398.HK,https://companiesmarketcap.com/img/company-logos/64/1398.HK.webp
+AstraZeneca,AZN,https://companiesmarketcap.com/img/company-logos/64/AZN.webp
+Shell,SHEL,https://companiesmarketcap.com/img/company-logos/64/SHEL.webp
+Hermès,RMS.PA,https://companiesmarketcap.com/img/company-logos/64/RMS.PA.webp
+Walt Disney,DIS,https://companiesmarketcap.com/img/company-logos/64/DIS.webp
+Cisco,CSCO,https://companiesmarketcap.com/img/company-logos/64/CSCO.webp
+Toyota,TM,https://companiesmarketcap.com/img/company-logos/64/TM.webp
+McDonald,MCD,https://companiesmarketcap.com/img/company-logos/64/MCD.webp
+Nike,NKE,https://companiesmarketcap.com/img/company-logos/64/NKE.webp
+Reliance Industries,RELIANCE.NS,https://companiesmarketcap.com/img/company-logos/64/RELIANCE.NS.webp
+Danaher,DHR,https://companiesmarketcap.com/img/company-logos/64/DHR.webp
+Abbott Laboratories,ABT,https://companiesmarketcap.com/img/company-logos/64/ABT.webp
+Novartis,NVS,https://companiesmarketcap.com/img/company-logos/64/NVS.webp
+Wells Fargo,WFC,https://companiesmarketcap.com/img/company-logos/64/WFC.webp
+Accenture,ACN,https://companiesmarketcap.com/img/company-logos/64/ACN.webp
+T-Mobile US,TMUS,https://companiesmarketcap.com/img/company-logos/64/TMUS.webp
+Adobe,ADBE,https://companiesmarketcap.com/img/company-logos/64/ADBE.webp
+Salesforce,CRM,https://companiesmarketcap.com/img/company-logos/64/CRM.webp
+Verizon,VZ,https://companiesmarketcap.com/img/company-logos/64/VZ.webp
+BHP Group,BHP,https://companiesmarketcap.com/img/company-logos/64/BHP.webp
+Morgan Stanley,MS,https://companiesmarketcap.com/img/company-logos/64/MS.webp
+Prosus,PRX.AS,https://companiesmarketcap.com/img/company-logos/64/PRX.AS.webp
+Comcast,CMCSA,https://companiesmarketcap.com/img/company-logos/64/CMCSA.webp
+CATL,300750.SZ,https://companiesmarketcap.com/img/company-logos/64/300750.SZ.webp
+Linde,LIN,https://companiesmarketcap.com/img/company-logos/64/LIN.webp
+United Parcel Service,UPS,https://companiesmarketcap.com/img/company-logos/64/UPS.webp
+China Construction Bank,601939.SS,https://companiesmarketcap.com/img/company-logos/64/601939.SS.webp
+Philip Morris,PM,https://companiesmarketcap.com/img/company-logos/64/PM.webp
+Texas Instruments,TXN,https://companiesmarketcap.com/img/company-logos/64/TXN.webp
+Netflix,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

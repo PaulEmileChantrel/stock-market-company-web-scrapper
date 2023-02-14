@@ -69,13 +69,20 @@ def scrap_page(driver,df):
       df = pd.concat([df,new_row],ignore_index=True)
       
    return df
+def next_page(driver):
+   
+   buttons = driver.find_element(by="xpath",value="//a[@class='page-link']")
+   buttons[-1].click()
+   
+   
 
 accept_cookies(driver)
-df = scrap_page(driver,df)
+while True:
+   df = scrap_page(driver,df)
 
+   next_page(driver)
 
-
-df.to_csv('topMarketCap2.csv',index=False)
+   df.to_csv('topMarketCap2.csv',index=False)
 
 driver.quit()
 
