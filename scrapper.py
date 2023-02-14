@@ -70,19 +70,25 @@ def scrap_page(driver,df):
       
    return df
 def next_page(driver):
-   
-   buttons = driver.find_element(by="xpath",value="//a[@class='page-link']")
-   buttons[-1].click()
+   try:
+      buttons = driver.find_elements(by="xpath",value="//a[@class='page-link']")
+      buttons[-1].click()
+   except:
+      return False
+   else:
+      return True
    
    
 
 accept_cookies(driver)
-while True:
+keep_going = True
+while keep_going:
    df = scrap_page(driver,df)
+   df.to_csv('topMarketCap.csv',index=False)
+   keep_going = next_page(driver)
+   print('next page')
 
-   next_page(driver)
-
-   df.to_csv('topMarketCap2.csv',index=False)
+   
 
 driver.quit()
 
