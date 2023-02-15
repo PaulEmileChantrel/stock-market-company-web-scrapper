@@ -20,7 +20,7 @@ def download_img(img_link,file_name):
 
 
 # Download every image in the csv file
-for i in range(10):
+for i in range(df.shape[0]):
    ticker = tickers[i].lower()
    file_name = f'company_logo/{ticker}.webp'
    print(img_links[i])
